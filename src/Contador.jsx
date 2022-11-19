@@ -1,0 +1,1 @@
+backgroundImage: `url(${contador.png})`
